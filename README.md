@@ -247,6 +247,7 @@ Response components:
     lyrics,
     trackNumber,
     songId,
+    albumId,
     createdAt,
     updatedAt}
   ]
