@@ -268,7 +268,7 @@ Request components:
 
 Response components:
 
-- Status code: 200
+- Status code: 201
 - Headers: {
   "Content-type": "application/json"
 }
@@ -453,7 +453,7 @@ Request components:
 
 Response components:
 
-- Status code: 200
+- Status code: 201
 - Headers: "Content-Type":"application/json"
 - Body: {
   song added with details:
