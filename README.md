@@ -432,8 +432,8 @@ Response components:
     lyrics,
     trackNumber,
     songId,
-    album,
-    artst,
+    album {name, albumId, artistId},
+    artist {name, artistId},
     albumId
   }
 
