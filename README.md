@@ -487,7 +487,8 @@ Response components:
   lyrics,
   name,
   songId,
-  trackNumber
+  trackNumber,
+  updatedAt
 }
 
 ### Delete a specified song by songId
